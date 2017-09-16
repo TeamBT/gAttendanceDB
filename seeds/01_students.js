@@ -35,7 +35,7 @@ exports.seed = function(knex, Promise) {
         password: "bakky",
         partial: 0,
         here: true,
-        excused: false  
+        excused: false
       }];
 
       return knex('student').insert(students);
