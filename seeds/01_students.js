@@ -36,175 +36,175 @@ exports.seed = function(knex, Promise) {
       {
         id: 5,
         name: "Dan Mickulesku",
-        rfid: "968rueu8du3udjd3",
+        rfid: "sdg748asdf3d",
         partial: 0,
         checked_in: false,
         excused: false
       }, {
         id: 6,
         name: "Danielle Maier",
-        rfid: "968rueu8du3udjd3",
+        rfid: "wdfv848abnfdi3",
         partial: 0,
         checked_in: false,
         excused: false
       }, {
         id: 7,
         name: "Ellen Downing",
-        rfid: "968rueu8du3udjd3",
+        rfid: "sdfir734uawe83",
         partial: 0,
         checked_in: false,
         excused: false
       }, {
         id: 8,
         name: "Eric Wallen",
-        rfid: "968rueu8du3udjd3",
+        rfid: "1274634rsdf3",
         partial: 0,
         checked_in: false,
         excused: false
       }, {
         id: 9,
         name: "Erin Shaben",
-        rfid: "968rueu8du3udjd3",
+        rfid: "909823723uafshjh",
         partial: 0,
         checked_in: false,
         excused: false
       }, {
         id: 10,
         name: "Hyunmo Yang",
-        rfid: "968rueu8du3udjd3",
+        rfid: "6ayq236awejh23",
         partial: 0,
         checked_in: false,
         excused: false
       }, {
         id: 11,
         name: "Jae Holderby",
-        rfid: "968rueu8du3udjd3",
+        rfid: "jkacs7qw6s3",
         partial: 0,
         checked_in: false,
         excused: false
       }, {
         id: 12,
         name: "Jasmine Cervantes",
-        rfid: "968rueu8du3udjd3",
+        rfid: "dsy363ir745he",
         partial: 0,
         checked_in: false,
         excused: false
       }, {
         id: 13,
         name: "Jonathan Sax",
-        rfid: "968rueu8du3udjd3",
+        rfid: "zusysg634io",
         partial: 0,
         checked_in: false,
         excused: false
       }, {
         id: 14,
         name: "Jose Julio Silveira Figueiredo Junior",
-        rfid: "968rueu8du3udjd3",
+        rfid: "65u84hdhq82",
         partial: 0,
         checked_in: false,
         excused: false
       }, {
         id: 15,
         name: "Levi Holmes",
-        rfid: "968rueu8du3udjd3",
+        rfid: "szciwe7834uhjq348qwe",
         partial: 0,
         checked_in: false,
         excused: false
       }, {
         id: 16,
         name: "Logan Crewss",
-        rfid: "968rueu8du3udjd3",
+        rfid: "sf8234wfebhjkuiq4",
         partial: 0,
         checked_in: false,
         excused: false
       }, {
         id: 17,
         name: "Maria Jose Mata Jimenez",
-        rfid: "968rueu8du3udjd3",
+        rfid: "823uiwey722h1s",
         partial: 0,
         checked_in: false,
         excused: false
       }, {
         id: 18,
         name: "Matthew Drumheller",
-        rfid: "968rueu8du3udjd3",
+        rfid: "xx64u34jkeqw",
         partial: 0,
         checked_in: false,
         excused: false
       }, {
         id: 19,
         name: "Michael Harrington",
-        rfid: "968rueu8du3udjd3",
+        rfid: "0948723yhrkasjh",
         partial: 0,
         checked_in: false,
         excused: false
       }, {
         id: 20,
         name: "Mikki Mesfin",
-        rfid: "968rueu8du3udjd3",
+        rfid: "10437jsdfkjserjke2",
         partial: 0,
         checked_in: false,
         excused: false
       }, {
         id: 21,
         name: "Nick Nasky",
-        rfid: "968rueu8du3udjd3",
+        rfid: "vhgfrty6er3e39d",
         partial: 0,
         checked_in: false,
         excused: false
       }, {
         id: 22,
         name: "Recardo Poole",
-        rfid: "968rueu8du3udjd3",
+        rfid: "mniyu97iytjgv8r",
         partial: 0,
         checked_in: false,
         excused: false
       }, {
         id: 23,
         name: "Roxanne Baldwin",
-        rfid: "968rueu8du3udjd3",
+        rfid: "4trgdfhe763",
         partial: 0,
         checked_in: false,
         excused: false
       }, {
         id: 24,
         name: "Sally Bouley",
-        rfid: "968rueu8du3udjd3",
+        rfid: "89897ijthfv632f13",
         partial: 0,
         checked_in: false,
         excused: false
       }, {
         id: 25,
         name: "Shawna Doering",
-        rfid: "968rueu8du3udjd3",
+        rfid: "zdeasrer435267e",
         partial: 0,
         checked_in: false,
         excused: false
       }, {
         id: 26,
         name: "Trenton Wuerker",
-        rfid: "968rueu8du3udjd3",
+        rfid: "hgutyu6754940dkjdj",
         partial: 0,
         checked_in: false,
         excused: false
       }, {
         id: 27,
         name: "Tyler Keesling	",
-        rfid: "968rueu8du3udjd3",
+        rfid: "z0dei3j2376dghr4",
         partial: 0,
         checked_in: false,
         excused: false
       }, {
         id: 28,
         name: "Tyrel Richard",
-        rfid: "968rueu8du3udjd3",
+        rfid: "v6f7eh34b3jd3",
         partial: 0,
         checked_in: false,
         excused: false
       }, {
         id: 29,
         name: "Yousif Al timimie",
-        rfid: "968rueu8du3udjd3",
+        rfid: "3yehjdf6f4idn3",
         partial: 0,
         checked_in: false,
         excused: false
