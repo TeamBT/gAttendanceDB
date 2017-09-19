@@ -5,7 +5,7 @@ exports.up = function(knex, Promise) {
     table.text('rfid').notNullable();
     table.text('password');
     table.integer('partial');
-    table.boolean('here');
+    table.boolean('checked_in');
     table.boolean('excused');
   })
 };

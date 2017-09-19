@@ -10,7 +10,7 @@ exports.seed = function(knex, Promise) {
         rfid: "23iuwd23jdkjasdf",
         password: "bakky",
         partial: 0,
-        here: false,
+        checked_in: false,
         excused: false
       }, {
         id: 2,
@@ -18,7 +18,7 @@ exports.seed = function(knex, Promise) {
         rfid: "2w3sef2asgsdfgr",
         password: "bakky",
         partial: 0,
-        here: false,
+        checked_in: false,
         excused: true
       }, {
         id: 3,
@@ -26,7 +26,7 @@ exports.seed = function(knex, Promise) {
         rfid: "5jw8fu38di43",
         password: "bakky",
         partial: 0,
-        here: true,
+        checked_in: true,
         excused: false
       }, {
         id: 4,
@@ -34,7 +34,7 @@ exports.seed = function(knex, Promise) {
         rfid: "968rueu8du3udjd3",
         password: "bakky",
         partial: 0,
-        here: true,
+        checked_in: true,
         excused: false
       }];
 
