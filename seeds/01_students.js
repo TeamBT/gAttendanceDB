@@ -189,7 +189,7 @@ exports.seed = function(knex, Promise) {
         excused: false
       }, {
         id: 27,
-        name: "Tyler Keesling	",
+        name: "Tyler Keesling",
         rfid: "z0dei3j2376dghr4",
         partial: 0,
         checked_in: false,
