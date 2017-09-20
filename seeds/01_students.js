@@ -21,7 +21,7 @@ exports.seed = function(knex, Promise) {
       }, {
         id: 3,
         name: "Cody Duskin",
-        rfid: "5jw8fu38di43",
+        rfid: "505911634",
         partial: 0,
         checked_in: false,
         excused: false
@@ -78,7 +78,7 @@ exports.seed = function(knex, Promise) {
       }, {
         id: 11,
         name: "Jae Holderby",
-        rfid: "jkacs7qw6s3",
+        rfid: "13121047",
         partial: 0,
         checked_in: false,
         excused: false
@@ -148,7 +148,7 @@ exports.seed = function(knex, Promise) {
       }, {
         id: 21,
         name: "Nick Nasky",
-        rfid: "vhgfrty6er3e39d",
+        rfid: "13219010",
         partial: 0,
         checked_in: false,
         excused: false
@@ -183,14 +183,14 @@ exports.seed = function(knex, Promise) {
       }, {
         id: 26,
         name: "Trenton Wuerker",
-        rfid: "hgutyu6754940dkjdj",
+        rfid: "13158384",
         partial: 0,
         checked_in: false,
         excused: false
       }, {
         id: 27,
         name: "Tyler Keesling",
-        rfid: "z0dei3j2376dghr4",
+        rfid: "02665192",
         partial: 0,
         checked_in: false,
         excused: false
