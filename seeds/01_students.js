@@ -21,7 +21,7 @@ exports.seed = function(knex, Promise) {
       }, {
         id: 3,
         name: "Cody Duskin",
-        rfid: "505911634",
+        rfid: "05911634",
         partial: 0,
         checked_in: false,
         excused: false
