@@ -5,19 +5,19 @@ exports.seed = function(knex, Promise) {
   .then(() => {
       var attendances = [{
         id: 1,
-        time: "9/15/2017",
+        date: "9/15/2017",
         student_id: 1
       }, {
         id: 2,
-        time: "9/15/2017",
+        date: "9/15/2017",
         student_id: 2
       }, {
         id: 3,
-        time: "9/15/2017",
+        date: "9/15/2017",
         student_id: 3
       }, {
         id: 4,
-        time: "9/15/2017",
+        date: "9/15/2017",
         student_id: 4
       }];
 
