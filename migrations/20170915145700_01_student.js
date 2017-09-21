@@ -3,7 +3,6 @@ exports.up = function(knex, Promise) {
     table.increments();
     table.text('name').notNullable();
     table.text('rfid').notNullable();
-    table.integer('partial');
     table.boolean('checked_in');
     table.boolean('excused');
   })
